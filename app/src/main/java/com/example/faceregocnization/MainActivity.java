@@ -107,17 +107,11 @@ public class MainActivity extends AppCompatActivity {
         }
 
         // It’s time to prepare our Face Detection model.
-        detector.detectInImage(image).addOnSuccessListener(new OnSuccessListener<List<FirebaseVisionFace>>() {
-                    @Override
-                    // adding an onSuccess Listener, i.e, in case
-                    // our image is successfully detected, it will
-                    // append it's attribute to the result
-                    // textview in result dialog box.
-                    public void onSuccess(List<FirebaseVisionFace> firebaseVisionFaces) {
-                        String resultText = "";
-                        int i = 1;
-                        for (FirebaseVisionFace face : firebaseVisionFaces) {
-//                            resultText = resultText
+        // adding an onSuccess Listener, i.e, in case
+        // our image is successfully detected, it will
+        // append it's attribute to the result
+        // textview in result dialog box.
+        //                            resultText = resultText
 //                                    .concat("\nFACE NUMBER. " + i + ": ")
 //                                    .concat(
 //                                            "\nSmile: "
@@ -135,6 +129,13 @@ public class MainActivity extends AppCompatActivity {
 //                                                    * 100
 //                                                    + "%");
 //                            i++;
+        detector.detectInImage(image).addOnSuccessListener(new OnSuccessListener<List<FirebaseVisionFace>>() {
+                    @Override
+                    public void onSuccess(List<FirebaseVisionFace> firebaseVisionFaces) {
+                        String resultText = "";
+                        int i = 1;
+                        for (FirebaseVisionFace face : firebaseVisionFaces) {
+                            //face.getEmbeddedVector();
 
                             Rect bounds = face.getBoundingBox();
                             float rotY = face.getHeadEulerAngleY();  // Head is rotated to the right rotY degrees
