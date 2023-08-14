@@ -1,0 +1,242 @@
+{
+  "project_info": {
+    "project_number": "221679605692",
+    "project_id": "edufy-v3",
+    "storage_bucket": "edufy-v3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221679605692:android:120ed0d4c673b5c60e3db9",
+        "android_client_info": {
+          "package_name": "com.example.faceregocnization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0iHftpgVn52oAlTHry789wxh01ID2vYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221679605692:android:2d1780fe9a8def140e3db9",
+        "android_client_info": {
+          "package_name": "com.softifybd.ambitionenglishacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0iHftpgVn52oAlTHry789wxh01ID2vYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221679605692:android:dde85d668714196f0e3db9",
+        "android_client_info": {
+          "package_name": "com.softifybd.ariarcadetmadrasah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0iHftpgVn52oAlTHry789wxh01ID2vYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221679605692:android:c2fdcc7cab86806f0e3db9",
+        "android_client_info": {
+          "package_name": "com.softifybd.birahimpurhighschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0iHftpgVn52oAlTHry789wxh01ID2vYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221679605692:android:2dc220d414934ba30e3db9",
+        "android_client_info": {
+          "package_name": "com.softifybd.creativeeducationfamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0iHftpgVn52oAlTHry789wxh01ID2vYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221679605692:android:056e3320ca2c58e80e3db9",
+        "android_client_info": {
+          "package_name": "com.softifybd.makkinagarmadrasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0iHftpgVn52oAlTHry789wxh01ID2vYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221679605692:android:5a6df2382e04acf00e3db9",
+        "android_client_info": {
+          "package_name": "com.softifybd.markazuttaqwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0iHftpgVn52oAlTHry789wxh01ID2vYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221679605692:android:ec9ceff802d475160e3db9",
+        "android_client_info": {
+          "package_name": "com.softifybd.solimacomputerinstitute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0iHftpgVn52oAlTHry789wxh01ID2vYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221679605692-gahbq38oeuo9ht8jkihhskme97iog0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
