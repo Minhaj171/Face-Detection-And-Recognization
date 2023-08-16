@@ -137,6 +137,7 @@ public class MainActivity extends AppCompatActivity {
                         for (FirebaseVisionFace face : firebaseVisionFaces) {
                             //face.getEmbeddedVector();
 
+
                             Rect bounds = face.getBoundingBox();
                             float rotY = face.getHeadEulerAngleY();  // Head is rotated to the right rotY degrees
                             float rotZ = face.getHeadEulerAngleZ();  // Head is tilted sideways rotZ degrees

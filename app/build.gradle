@@ -8,6 +8,11 @@ plugins {
 android {
     namespace 'com.example.faceregocnization'
     compileSdkVersion 33  // Change compileSdk to compileSdkVersion
+
+    // Specify tflite file should not be compressed for the app apk
+    aaptOptions {
+        noCompress "tflite"
+    }
     defaultConfig {
         applicationId "com.example.faceregocnization"
         minSdkVersion 21   // Change minSdk to minSdkVersion
@@ -54,11 +59,11 @@ dependencies {
     implementation "androidx.camera:camera-lifecycle:1.1.0-alpha04"
     implementation "androidx.camera:camera-view:1.0.0-alpha31"
 
-    implementation 'com.google.firebase:firebase-ml-vision:24.0.3'
-    // If you want to detect face contours (landmark detection and classification
-    // don't require this additional model):
-    implementation 'com.google.firebase:firebase-ml-vision-face-model:20.0.1'
+    implementation 'com.google.firebase:firebase-ml-vision:24.1.0'
 
 
 
+    implementation 'org.tensorflow:tensorflow-lite:+'
+    implementation 'org.tensorflow:tensorflow-lite-gpu:+'
+    implementation 'org.tensorflow:tensorflow-lite-support:+'
 }
