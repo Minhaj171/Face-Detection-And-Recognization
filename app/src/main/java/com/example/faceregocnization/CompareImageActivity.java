@@ -199,8 +199,8 @@ public class CompareImageActivity extends AppCompatActivity {
 //                        .setClassificationMode(FirebaseVisionFaceDetectorOptions.ALL_CLASSIFICATIONS)
 //                        .build();
 
-      //  FirebaseVisionImage image = FirebaseVisionImage.fromBitmap(bitmap);
-       // FirebaseVisionFaceDetector detector = FirebaseVision.getInstance().getVisionFaceDetector(options);
+        //  FirebaseVisionImage image = FirebaseVisionImage.fromBitmap(bitmap);
+        // FirebaseVisionFaceDetector detector = FirebaseVision.getInstance().getVisionFaceDetector(options);
 //               faceDetector.pr(image).addOnSuccessListener(new OnSuccessListener<List<FirebaseVisionFace>>() {
 //                    @Override
 //                    public void onSuccess(List<FirebaseVisionFace> firebaseVisionFaces) {
